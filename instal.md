@@ -1,3 +1,5 @@
+[< к содержанию](./readme.md)
+
 ## Установка
 
 ---
@@ -25,3 +27,7 @@
 * *Теперь установим email. Принцип тот же.*
 
 `git config --global user.email "<адрес_почты@email.com>"`
+
+---
+
+[< Назад](./work.md) [Далее >](./gitcommands.md)
