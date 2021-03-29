@@ -29,4 +29,4 @@ git commit -m "<комментарий>"
 
 ---
 
-[< Назад](./gitcommands.md) [Далее >](./project.md)
+[< Назад](./gitcommands.md) [Далее >](./discriptgithub)

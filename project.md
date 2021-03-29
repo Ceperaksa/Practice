@@ -24,4 +24,4 @@
 
 ---
 
-[< Назад](./create.md)
+[< Назад](./discriptgithub)
