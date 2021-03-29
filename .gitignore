@@ -1,0 +1,7 @@
+# sitings
+.vscode
+.ide?
+.vsc*
+*.sw?
+*.user
+*.suo
