@@ -24,4 +24,4 @@
 
 ---
 
-[< Назад](./discriptgithub)
+[< Назад](./discriptgithub.md)

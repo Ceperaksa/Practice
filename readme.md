@@ -11,8 +11,8 @@ LICENSE: [APACHE LICENSE, VERSION 2.0](./license.md)
 3. [Установка и настройка](./instal.md)
 4. [Основные команды Git](./gitcommands.md)
 5. [Создание репозитория](./create.md)
-6. [Что такое Github](./discriptgithub)
-6. [Создание проекта на Github](./project.md)
+6. [Что такое Github](./discriptgithub.md)
+7. [Создание проекта на Github](./project.md)
 
 ---
 
