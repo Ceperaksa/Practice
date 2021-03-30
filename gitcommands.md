@@ -52,4 +52,4 @@
 
 ---
 
-[< Назад](./instal.md) [Далее >](./create.md)
+[< Назад](./customiz.md) [Далее >](./create.md)
